@@ -1,0 +1,22 @@
+{
+  "name": "bus_project",
+  "version": "1.0.0",
+  "description": "my project bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrezdeniuk87/bus_project.git"
+  },
+  "author": "Oleksandr Brezdeniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbrezdeniuk87/bus_project/issues"
+  },
+  "homepage": "https://github.com/sbrezdeniuk87/bus_project#readme",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
